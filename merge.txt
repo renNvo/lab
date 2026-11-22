@@ -1,2 +1,3 @@
 xyz 
 zyx 
+konfliktowy plik 
